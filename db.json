@@ -1,9 +1,124 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "familyCars": [
+    {
+      "rank": 1,
+      "name": "Dacia Jogger",
+      "type": "MPV",
+      "features": ["Spacious interior", "Efficient", "Modular roof bars"],
+      "awards": ["Family Car of the Year 2023"],
+      "price": "Affordable",
+      "fuelEconomy": "56.5mpg",
+      "coverImage": "/images/dacia_jogger_cover.jpg",
+      "additionalImages": ["/images/Dacia Jogger facelift 021_j7btex.jpg"],
+      "description": "The Jogger really sits in a class of its own, thanks to its bargain price tag, especially in the entry-level Essential petrol form..."
+    },
+    {
+      "rank": 2,
+      "name": "Skoda Superb Estate",
+      "type": "Estate",
+      "features": ["660-litre boot", "Refined on the move", "Soft suspension"],
+      "awards": ["Estate of the Year 2016"],
+      "price": "Varies",
+      "fuelEconomy": "Varies",
+      "coverImage": "/images/skoda_superb_cover.jpg",
+      "additionalImages": ["/images/skoda_superb_1.jpg", "/images/skoda_superb_2.jpg"],
+      "description": "While the Skoda Superb hatch is good, we highly rate the Estate model, thanks to its 660-litre boot. It’s supremely refined on the move, due to its soft suspension..."
+    },
+    {
+      "rank": 3,
+      "name": "Peugeot 408",
+      "type": "Fastback",
+      "features": ["Bold styling", "536-litre boot", "Hybrid options"],
+      "awards": [],
+      "price": "Varies",
+      "fuelEconomy": "Varies",
+      "coverImage": "/images/Peugeot 408 Hybrid UK 005_adgvvs.jpg",
+      "additionalImages": ["/images/peugeot_408_1.jpg", "/images/peugeot_408_2.jpg"],
+      "description": "Regardless, there’s much more to the 408 than its bold styling. The single non-hybrid turbocharged petrol engine is our pick of the range..."
+    },
+    {
+      "rank": 4,
+      "name": "BMW 3 Series",
+      "type": "Sedan",
+      "features": ["Exceptional driving dynamics", "Available in plug-in hybrid", "Touring estate option"],
+      "awards": [],
+      "price": "Varies",
+      "fuelEconomy": "Varies",
+      "coverImage": "/images/BMW 3 Series 2023 UK 006_lctitb.jpg",
+      "additionalImages": ["/images/bmw_3_series_1.jpg", "/images/bmw_3_series_2.jpg"],
+      "description": "The BMW 3 Series has been one of the best cars you can buy for decades. The current G20 generation is longer and wider than the previous version, but it’s up to 55kg lighter, has a 25 per cent stiffer body, and drives even more sweetly no matter which powertrain you choose..."
+    },
+    {
+      "rank": 5,
+      "name": "Nissan Qashqai",
+      "type": "SUV",
+      "features": ["Car-like handling", "Mild hybrid or e-Power options", "Popular choice"],
+      "awards": [],
+      "price": "Varies",
+      "fuelEconomy": "53.3mpg",
+      "coverImage": "/images/nissan_qashqai_cover.jpg",
+      "additionalImages": ["/images/nissan_qashqai_1.jpg", "/images/nissan_qashqai_2.jpg"],
+      "description": "The Nissan Qashqai is credited as being the car that really kicked off the SUV boom. It wasn’t really the first, but its mixture of car-like handling, practicality, build quality and pricing hit a sweet spot when it launched in 2007..."
+    },
+    {
+      "rank": 6,
+      "name": "Hyundai Kona",
+      "type": "SUV",
+      "features": ["Improved rear cabin space", "466-litre boot", "Upmarket cabin"],
+      "awards": [],
+      "price": "Varies",
+      "fuelEconomy": "Varies",
+      "coverImage": "/images/hyundai_kona_cover.jpg",
+      "additionalImages": ["/images/hyundai_kona_1.jpg", "/images/hyundai_kona_2.jpg"],
+      "description": "The original Hyundai Kona was a very sensible small SUV, but it lacked the rear cabin space or luggage capacity to take on the best family cars on the market. That’s all changed with the all-new second-generation Kona..."
+    },
+    {
+      "rank": 7,
+      "name": "Hyundai Tucson",
+      "type": "SUV",
+      "features": ["Striking looks", "620-litre boot", "Top build quality"],
+      "awards": ["Mid-size SUV of the Year"],
+      "price": "Varies",
+      "fuelEconomy": "Varies",
+      "coverImage": "/images/Hyundai Kona Electric.jpg",
+      "additionalImages": ["/images/hyundai_tucson_1.jpg", "/images/hyundai_tucson_2.jpg"],
+      "description": "With the fourth-generation Tucson, Hyundai set its sights on some of the more premium offerings in the hugely competitive mid-size SUV market. Striking and distinctive looks, plenty of standard equipment across the range and an overall sense of top build quality are just some of the features that have earned the Tucson the title of Mid-size SUV of the Year at our New Car Awards for three years in a row..."
+    },
+    {
+      "rank": 8,
+      "name": "Honda Civic",
+      "type": "Hatchback",
+      "features": ["Self-charging hybrid powertrain", "Cleaner look", "Spacious cabin"],
+      "awards": [],
+      "price": "Varies",
+      "fuelEconomy": "Over 50mpg",
+      "coverImage": "/images/Honda Civic 014_zctnxo.jpg",
+      "additionalImages": ["/images/honda_civic_1.jpg", "/images/honda_civic_2.jpg"],
+      "description": "Like the Toyota Corolla, the 11th-generation Honda Civic is available exclusively with a self-charging hybrid powertrain. It’s smooth, efficient and capable of returning over 50mpg without breaking a sweat..."
+    },
+    {
+      "rank": 9,
+      "name": "Toyota Corolla Touring Sports",
+      "type": "Estate",
+      "features": ["Hybrid system upgrades", "Practical family wagon", "Good fuel economy"],
+      "awards": [],
+      "price": "Varies",
+      "fuelEconomy": "Over 60mpg",
+      "coverImage": "/images/Toyota Corolla Touring Sports 2023-2.jpg",
+      "additionalImages": ["/images/toyota_corolla_touring_sports_1.jpg", "/images/toyota_corolla_touring_sports_2.jpg"],
+      "description": "The Toyota Corolla Touring Sports recently received a facelift that included the usual styling tweaks, but more importantly, upgrades to its hybrid system and a new infotainment setup that make this practical family wagon better than ever..."
+    },
+    {
+      "rank": 10,
+      "name": "Skoda Octavia",
+      "type": "Hatchback",
+      "features": ["Competitive pricing", "Classy design", "600-litre boot"],
+      "awards": [],
+      "price": "Starting from £26,000",
+      "fuelEconomy": "Varies",
+      "coverImage": "/images/Skoda Octavia.jpg",
+      "additionalImages": ["/images/skoda_octavia_1.jpg", "/images/skoda_octavia_2.jpg"],
+      "description": "The Skoda Octavia is a brilliant all-rounder that delivers on the essentials: competitive pricing, plenty of space and practicality, useful on-board tech and a range of efficient petrol and diesel engines..."
+    }
+  ]
 }
