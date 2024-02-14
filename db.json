@@ -119,6 +119,22 @@
       "coverImage": "/images/Skoda Octavia.jpg",
       "additionalImages": ["/images/skoda_octavia_1.jpg", "/images/skoda_octavia_2.jpg"],
       "description": "The Skoda Octavia is a brilliant all-rounder that delivers on the essentials: competitive pricing, plenty of space and practicality, useful on-board tech and a range of efficient petrol and diesel engines..."
-    }
+    },
+    {
+      "rank": 11,
+      "name": "Volkswagen Tiguan",
+      "type": "SUV",
+      "features": ["Versatile interior", "Advanced safety features", "Spacious cabin"],
+      "awards": [],
+      "price": "Varies",
+      "fuelEconomy": "Varies",
+      "coverImage": "/images/volkswagen_tiguan_cover.jpg",
+      "additionalImages": ["/images/volkswagen_tiguan_1.jpg", "/images/volkswagen_tiguan_2.jpg"],
+      "description": "The Volkswagen Tiguan offers a versatile interior, advanced safety features, and a spacious cabin. With its stylish design and a range of available options, it caters to the needs of families and adventure enthusiasts alike...",
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": 2024,
+      "videoUrl": "https://youtu.be/OkJpALb2_GE"
+    }    
   ]
 }
