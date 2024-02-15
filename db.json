@@ -138,3 +138,54 @@
     }    
   ]
 }
+
+{
+  "featuredCars": [
+    {
+      "id": 1,
+      "model": "Bentley Bentayga 6.0L W12",
+      "image": "https://dashboard.kaiandkaro.com/media/vehicles/thumbnails/IMG-20231031-WA0117.jpg",
+      "highlight": "Luxury & Power",
+      "description": "The Bentayga doesn't shout; you could hear it cutting through the air. The 6.0L W12 engine is super stunning and super powerful. An air suspension system, four-zone climate controls, Traction control, rear-mounted spoiler, and a Mulliner Driving specification that gives a lot of extras to offer.",
+      "startingPrice": "KES 33,420,000",
+      "caption": "Experience luxury and power with the Bentley Bentayga 6.0L W12. A masterpiece of engineering and design."
+    },
+    {
+      "id": 2,
+      "model": "Jeep Grand Cherokee",
+      "image": "https://dashboard.kaiandkaro.com/media/vehicles/images/22ed5f47-ca20-4bf4-b116-03f4ccd4c688.jpeg",
+      "highlight": "Practicality & Class",
+      "description": "The Blackhawk, also called the Laredo, came into the market and took it by storm. It comes equipped with a 3.6-liter engine and various off-road modes. The Jeep Grand Cherokee combines practicality and class, making it a versatile choice for any adventure.",
+      "startingPrice": "KES 5,499,999",
+      "caption": "Discover the Jeep Grand Cherokee, a perfect blend of practicality and class. Ready for any off-road adventure."
+    },
+    {
+      "id": 3,
+      "model": "BMW X4 XDrive 28i",
+      "image": "https://dashboard.kaiandkaro.com/media/vehicles/images/IMG-20240125-WA0166.jpg",
+      "highlight": "Limited Edition - BLACKOUT EDITION",
+      "description": "In early 2017, BMW introduced a new limited edition called the BLACKOUT EDITION, featuring a range of All-Black X3, X4, and X5s, exclusively for BMW Japan. Only 310 units were produced, and this unit is listed as number 187 of 310. The BMW X4 XDrive 28i features a different fascia, a 2.0L N20B20 inline-4 turbocharged petrol engine, leather seats with memory and heating function, rear armrest, heads-up display, and a sunroof.",
+      "startingPrice": "KES 5,499,999",
+      "caption": "Experience luxury in the limited edition BMW X4 XDrive 28i BLACKOUT EDITION. Only 310 units were produced, and this is number 187. A unique blend of style and performance."
+    },
+    {
+      "id": 4,
+      "model": "Range Rover Sport 3.0 SDV6 HSE",
+      "image": "https://dashboard.kaiandkaro.com/media/vehicles/images/IMG-20231208-WA0021.jpg",
+      "highlight": "Luxury & High-Performance",
+      "description": "The Range Rover Sport HSE, sitting above SE trim and just below the top-spec 5.0L V8 Supercharged, offers high standard equipment. Features include a standard air suspension system for improved comfort and stability at high speeds and when engaging corners, an All-Wheel Drive system with terrain response management system and multiple offroad modes, and an eight-speed automatic transmission gearbox. The infotainment system is upgraded with a 10-inch Touchscreen for convenient car specs access, and safety features include an automatic emergency braking system, lane-keep assist, and a blind-spot warning system.",
+      "startingPrice": "KES 8,999,999",
+      "caption": "Discover the Range Rover Sport 3.0 SDV6 HSE, a blend of luxury and high-performance. Equipped with advanced features for a superior driving experience."
+    },
+    {
+      "id": 5,
+      "model": "Volkswagen Tiguan 1.4TSI",
+      "image": "https://dashboard.kaiandkaro.com/media/vehicles/images/IMG-20240205-WA0112.jpg",
+      "highlight": "Efficient & Popular",
+      "description": "The Volkswagen Tiguan has been the best-selling SUV in the Volkswagen Group, with over 900,000 units produced in 2019 alone. It is an excellent compact crossover, offering the best efficiency with its 1.4L TSI engine rated at 148hp, consuming close to what a Mazda Demio does.",
+      "startingPrice": "KES 2,899,999",
+      "caption": "Explore the efficiency and popularity of the Volkswagen Tiguan 1.4TSI. The best-selling SUV with impressive features and performance."
+    }
+  ]
+}
+
